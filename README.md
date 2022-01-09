@@ -17,7 +17,7 @@ This is a Node CLI that takes in information about employees and generates an HT
 ## Installation
 Run:
 
-                npm i
+                npm instal
 
 ## Usage
 
