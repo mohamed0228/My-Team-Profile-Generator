@@ -9,8 +9,8 @@
 This is a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. 
 
 ### App working example
+[working app gif](./src/gif.gif)
 
-![Git](video.gif)
 [Video Link](https://drive.google.com/file/d/1i2mhLdgij2xfIyrGL_atRBTdo-61lXOr/view)
 ![img](./src/img.png)
 
