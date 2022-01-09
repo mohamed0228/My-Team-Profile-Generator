@@ -11,8 +11,8 @@ This is a Node CLI that takes in information about employees and generates an HT
 ### App working example
 
 ![Git](video.gif)
-[Video Link](https://drive.google.com/file/d/1avhJrr5IlHLYr-3MqivEXg17pZmkCfiV/view)
-![Foto1](foto1.png)
+[Video Link](https://drive.google.com/file/d/1i2mhLdgij2xfIyrGL_atRBTdo-61lXOr/view)
+![img](./src/img.png)
 
 ## Installation
 Run:
